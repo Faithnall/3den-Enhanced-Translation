@@ -981,7 +981,7 @@
         <English>Aiming Error</English>
         <Czech>Odchylka míření</Czech>
         <French>Erreur de visée</French>
-        <German>Erreur de visée</German>
+        <German>Zielsicherheit</German>
       </Key>
       <Key ID="STR_ENH_disableAI_aimingError_tooltip">
         <Original>Prevents AI's aiming from being diSTR_ENH_acted by its shooting, moving, turning, reloading, hit, injury, fatigue, suppression or concealed/lost target.</Original>
